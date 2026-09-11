@@ -1,5 +1,7 @@
 # AI Capability Maturity Model — Project Portal
 
+> Moved to `protocolvision/project-aicapabilitymaturitymodel` on 2026-09-11 from `ai-capability-maturity-model/` in `rafaeldavid/protocolized-publications`, history intact (213 commits). The AI Kitcraft workshop page that used to live in `AI-Kitcraft-Workshop/` now lives in `protocolvision/workshop-kitkraft` (`site/`). The contact worker it references stays in the old repo under `_Infrastructure/protocolized-inbox/`.
+
 **Project:** Desk research, blog post, litepaper, interactive diagnostic, archetype assessment, case-studies library, and an AI-adoption-guide slide deck on a capability maturity model for organizational AI adoption
 **Practice:** Protocolized — Protocols for Business Practice
 **Status:** AI Adoption Guide slide deck — *Durable AI Adoption* — live at https://ai.protocolized.dev/ (slug `plush-muse-q9bz`). Artifact (v1.12) + Blog post (v1.2) + Litepaper (v5 HTML) + Assessment (v0.9) + Case Studies Library remain at their existing `protocolized.dev/*` sub-paths. The legacy homepage at `protocolized.dev/` now redirects to `ai.protocolized.dev`.

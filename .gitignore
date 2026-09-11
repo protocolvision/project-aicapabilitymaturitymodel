@@ -6,3 +6,4 @@ Resources/*.png
 .DS_Store
 **/.DS_Store
 .herenow/
+node_modules/
